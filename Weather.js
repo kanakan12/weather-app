@@ -9,27 +9,37 @@ const weatherOptions = {
     Thunderstorm: {
         iconName: "thunderstorm-sharp",
         gradient: ["#108dc7", "#ef8e38"],
-        iconClass: "Ionicons"
+        iconClass: "Ionicons",
+        title: "",
+        subtitle: ""
     },
     Drizzle: {
         iconName: "cloud-drizzle",
         gradient: ["#00b09b", "#96c93d"],
-        iconClass: "Feather"
+        iconClass: "Feather",
+        title: "",
+        subtitle: ""
     },
     Rain: {
         iconName: "rains",
         gradient: ["#a8c0ff", "#3f2b96"],
-        iconClass: "Fontisto"
+        iconClass: "Fontisto",
+        title: "",
+        subtitle: ""
     },
     Snow: {
         iconName: "snows",
         gradient: ["#91EAE4", "#86A8E7"],
-        iconClass: "Fontisto"
+        iconClass: "Fontisto",
+        title: "",
+        subtitle: ""
     },
     Mist: {
         iconName: "weather-fog",
         gradient: ["#D3CCE3", "#E9E4F0"],
-        iconClass: "MaterialCommunityIcons"
+        iconClass: "MaterialCommunityIcons",
+        title: "",
+        subtitle: ""
     },
     Smoke: {
         iconName: "smog",
@@ -39,49 +49,65 @@ const weatherOptions = {
     Haze: {
         iconName: "day-haze",
         gradient: ["#0082c8", "#0082c8"],
-        iconClass: "Fontisto"
+        iconClass: "Fontisto",
+        title: "",
+        subtitle: ""
     },
     Dust: {
         iconName: "cloudversify",
         gradient: ["#636363", "#a2ab58"],
-        iconClass: "FontAwesome5"
+        iconClass: "FontAwesome5",
+        title: "",
+        subtitle: ""
     },
     Fog: {
         iconName: "fog",
         gradient: ["#FFFDE4", "#005AA7"],
-        iconClass: "Fontisto"
+        iconClass: "Fontisto",
+        title: "",
+        subtitle: ""
     },
     Sand: {
         iconName: "wind",
         gradient: ["#CAC531", "#F3F9A7"],
-        iconClass: "Feather"
+        iconClass: "Feather",
+        title: "",
+        subtitle: ""
     },
     Ash: {
         iconName: "campfire",
         gradient: ["#4e54c8", "#8f94fb"],
-        iconClass: "MaterialCommunityIcons"
+        iconClass: "MaterialCommunityIcons",
+        title: "",
+        subtitle: ""
     },
     Squall: {
         iconName: "rain",
         gradient: ["#11998e", "#38ef7d"],
-        iconClass: "Fontisto"
+        iconClass: "Fontisto",
+        title: "",
+        subtitle: ""
     },
     Tornado: {
         iconName: "weather-tornado",
         gradient: ["#74ebd5", "#ACB6E5"],
-        iconClass: "MaterialCommunityIcons"
+        iconClass: "MaterialCommunityIcons",
+        title: "",
+        subtitle: ""
     },
     Clear: {
         iconName: "sun",
         gradient: ["#fc4a1a", "#f7b733"],
-        iconClass: "Feather"
+        iconClass: "Feather",
+        title: "",
+        subtitle: ""
     },
     Clouds: {
         iconName: "cloudy",
         gradient: ["#DBDBDB", "#EAEAEA"],
         iconClass: "Fontisto",
-        title: "Cloud",
-        subtitle: "cloudkasdfjaskld"
+        title: "",
+        subtitle: ""
     }
 }
 
